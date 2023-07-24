@@ -51,6 +51,7 @@
 ---
 
 <!-- Link Demo Section -->
+## Next.jsでMantineを使ったデモサイト
 
 ## 🚀 [Demo →](https://mantine-admin.vercel.app)
 
